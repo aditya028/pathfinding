@@ -1,0 +1,12 @@
+.grid {
+  margin: 50px 0 0 0;
+}
+.dijkstraButton{
+  margin-top: 20px;
+  padding: 5px;
+  border: 2px solid blueviolet ;
+  border-radius: 10px;
+  color: black;
+  cursor: pointer;
+  background-color: rgb(205, 174, 233);
+}
